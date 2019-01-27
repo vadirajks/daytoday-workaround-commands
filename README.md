@@ -4,3 +4,4 @@ PrntScrm
 Fn+PrntScrm
 Fn+Alt+PrntScrm
 Fn+Shift+PrntScrm
+.....
